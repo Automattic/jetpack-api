@@ -1,0 +1,22 @@
+{
+	"name": "automattic/js-api",
+	"description": "Jetpack API Library.",
+	"license": "GPL-2.0-or-later",
+	"require": {},
+	"require-dev": {
+		"automattic/jetpack-changelogger": "^3.3.7"
+	},
+	"scripts": {
+		"test-js": [
+			"pnpm run test"
+		]
+	},
+	"extra": {
+		"mirror-repo": "Automattic/jetpack-api",
+		"changelogger": {
+			"link-template": "https://github.com/Automattic/jetpack-api/compare/v${old}...v${new}"
+		},
+		"autotagger": true,
+		"npmjs-autopublish": true
+	}
+}
