@@ -2,6 +2,13 @@
 
 ### This is a list detailing changes for the Jetpack RNA Components package releases.
 
+## [0.17.5-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Add from property to connection call to wpcom
+
 ## [0.17.4] - 2024-04-08
 ### Changed
 - Updated package dependencies. [#36760]
@@ -318,6 +325,7 @@
 - Add the API methods left behind by the previous PR.
 - Initial release of jetpack-api package
 
+[0.17.5-alpha]: https://github.com/Automattic/jetpack-api/compare/v0.17.4...v0.17.5-alpha
 [0.17.4]: https://github.com/Automattic/jetpack-api/compare/v0.17.3...v0.17.4
 [0.17.3]: https://github.com/Automattic/jetpack-api/compare/v0.17.2...v0.17.3
 [0.17.2]: https://github.com/Automattic/jetpack-api/compare/v0.17.1...v0.17.2
