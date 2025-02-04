@@ -2,11 +2,12 @@
 
 ### This is a list detailing changes for the Jetpack RNA Components package releases.
 
-## [0.17.23-alpha] - unreleased
+## [0.18.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Custom Content Types: Ensure feature works on Jetpack settings page without using module functionality.
 - Updated package dependencies.
 
 ## [0.17.22] - 2025-01-20
@@ -396,7 +397,7 @@ This is an alpha version! The changes listed here are not final.
 - Add the API methods left behind by the previous PR.
 - Initial release of jetpack-api package
 
-[0.17.23-alpha]: https://github.com/Automattic/jetpack-api/compare/v0.17.22...v0.17.23-alpha
+[0.18.0-alpha]: https://github.com/Automattic/jetpack-api/compare/v0.17.22...v0.18.0-alpha
 [0.17.22]: https://github.com/Automattic/jetpack-api/compare/v0.17.21...v0.17.22
 [0.17.21]: https://github.com/Automattic/jetpack-api/compare/v0.17.20...v0.17.21
 [0.17.20]: https://github.com/Automattic/jetpack-api/compare/v0.17.19...v0.17.20
