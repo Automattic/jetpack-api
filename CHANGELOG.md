@@ -7,6 +7,7 @@
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Extended unlinkUser so a parameter for disconnecting all users can be passed.
 - moving the api endpoint for unlinking the user to the connection package
 
 ## [0.18.0] - 2025-02-05
