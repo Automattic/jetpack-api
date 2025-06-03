@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-api",
-	"version": "0.20.3",
+	"version": "1.0.0",
 	"description": "Jetpack Api Package",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/js-packages/api/#readme",
 	"bugs": {
@@ -14,7 +14,7 @@
 	"author": "Automattic",
 	"license": "GPL-2.0-or-later",
 	"dependencies": {
-		"@automattic/jetpack-config": "^0.1.29",
+		"@automattic/jetpack-config": "^1.0.0",
 		"@wordpress/url": "4.24.0"
 	},
 	"devDependencies": {
