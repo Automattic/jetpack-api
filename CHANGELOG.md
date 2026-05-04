@@ -2,12 +2,9 @@
 
 ### This is a list detailing changes for the Jetpack RNA Components package releases.
 
-## [1.0.24-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.0.24] - 2026-05-04
 ### Changed
-- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
+- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency. [#48225]
 
 ## [1.0.23] - 2026-04-20
 ### Changed
@@ -521,7 +518,7 @@ This is an alpha version! The changes listed here are not final.
 - Add the API methods left behind by the previous PR.
 - Initial release of jetpack-api package
 
-[1.0.24-alpha]: https://github.com/Automattic/jetpack-api/compare/v1.0.23...v1.0.24-alpha
+[1.0.24]: https://github.com/Automattic/jetpack-api/compare/v1.0.23...v1.0.24
 [1.0.23]: https://github.com/Automattic/jetpack-api/compare/v1.0.22...v1.0.23
 [1.0.22]: https://github.com/Automattic/jetpack-api/compare/v1.0.21...v1.0.22
 [1.0.21]: https://github.com/Automattic/jetpack-api/compare/v1.0.20...v1.0.21
