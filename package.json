@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-api",
-	"version": "1.0.26-alpha",
+	"version": "1.0.26",
 	"description": "Jetpack Api Package",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/js-packages/api/#readme",
 	"bugs": {
@@ -21,7 +21,7 @@
 		"test-coverage": "pnpm run test --coverage"
 	},
 	"dependencies": {
-		"@automattic/jetpack-config": "^1.0.11-alpha",
+		"@automattic/jetpack-config": "^1.0.11",
 		"@wordpress/url": "4.46.0"
 	},
 	"devDependencies": {
