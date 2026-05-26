@@ -2,6 +2,13 @@
 
 ### This is a list detailing changes for the Jetpack RNA Components package releases.
 
+## [1.1.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Add resetSearchTemplate( postType ) for the search dashboard's Restore Default action, routed via wpcom-origin so it reaches Simple sites.
+
 ## [1.0.26] - 2026-05-21
 ### Changed
 - Update package dependencies. [#48405]
@@ -527,6 +534,7 @@
 - Add the API methods left behind by the previous PR.
 - Initial release of jetpack-api package
 
+[1.1.0-alpha]: https://github.com/Automattic/jetpack-api/compare/v1.0.26...v1.1.0-alpha
 [1.0.26]: https://github.com/Automattic/jetpack-api/compare/v1.0.25...v1.0.26
 [1.0.25]: https://github.com/Automattic/jetpack-api/compare/v1.0.24...v1.0.25
 [1.0.24]: https://github.com/Automattic/jetpack-api/compare/v1.0.23...v1.0.24
