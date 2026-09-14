@@ -21,7 +21,7 @@
 		"test-coverage": "pnpm run test --coverage"
 	},
 	"dependencies": {
-		"@automattic/jetpack-config": "^1.0.15-alpha",
+		"@automattic/jetpack-config": "^1.1.0-alpha",
 		"@wordpress/url": "4.54.0"
 	},
 	"devDependencies": {
