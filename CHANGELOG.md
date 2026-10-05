@@ -2,12 +2,9 @@
 
 ### This is a list detailing changes for the Jetpack RNA Components package releases.
 
-## [2.1.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.1.0] - 2026-10-05
 ### Added
-- Search: Add an API method for activating the free Search product without a checkout.
+- Search: Add an API method for activating the free Search product without a checkout. [#52655]
 
 ## [2.0.0] - 2026-09-23
 ### Removed
@@ -574,7 +571,7 @@ This is an alpha version! The changes listed here are not final.
 - Add the API methods left behind by the previous PR.
 - Initial release of jetpack-api package
 
-[2.1.0-alpha]: https://github.com/Automattic/jetpack-api/compare/v2.0.0...v2.1.0-alpha
+[2.1.0]: https://github.com/Automattic/jetpack-api/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/Automattic/jetpack-api/compare/v1.0.35...v2.0.0
 [1.0.35]: https://github.com/Automattic/jetpack-api/compare/v1.0.34...v1.0.35
 [1.0.34]: https://github.com/Automattic/jetpack-api/compare/v1.0.33...v1.0.34
