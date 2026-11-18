@@ -2,6 +2,13 @@
 
 ### This is a list detailing changes for the Jetpack RNA Components package releases.
 
+## [2.2.6-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Add an optional `from` argument to startIDCFresh().
+
 ## [2.2.5] - 2026-11-04
 ### Changed
 - Update package dependencies. [#54512]
@@ -594,6 +601,7 @@
 - Add the API methods left behind by the previous PR.
 - Initial release of jetpack-api package
 
+[2.2.6-alpha]: https://github.com/Automattic/jetpack-api/compare/v2.2.5...v2.2.6-alpha
 [2.2.5]: https://github.com/Automattic/jetpack-api/compare/v2.2.4...v2.2.5
 [2.2.4]: https://github.com/Automattic/jetpack-api/compare/v2.2.3...v2.2.4
 [2.2.3]: https://github.com/Automattic/jetpack-api/compare/v2.2.2...v2.2.3
